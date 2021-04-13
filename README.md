@@ -3,8 +3,10 @@
     a.	Name the differences between imperative and functional programming
     b.	Explain the meaning of declarative programming. Give an example.
     c.	Name the benefits of including functional style programming in Java
+    
 
 2)  Use Lambdas and Streams to do the following.  Hard code all the data that you need and Test it Thoroughly!    
+
    a)  In  ‘Program 4’  of the file I gave you, of complete Java 8 programs (At first ignore the // group Employees by department code in that program) (Run it) :  
         1)  Count the number of last names that begin with the letter  ‘B’.  Print out this number.
         2)  Print out all of the Employee objects whose last name begins with the letter  ‘B’  in sorted order.  
@@ -17,6 +19,7 @@
         7)  Use the  ‘reduce’  method to print out the total salary of all employees.  
         8)  Print out only the first names of all the employees.  Use the  ‘map’  method to accomplish this.  
         9)  Create an infinite stream of even numbers (0, 2, 4, …) and then, eventually print out only the first 20 even numbers from this stream.  
+
 
 
 3) 	Implement a method with the following signature and return type:
