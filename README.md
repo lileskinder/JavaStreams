@@ -1,8 +1,8 @@
 # JavaStreams
 1.Short answer
-        a. Name the differences between imperative and functional programming
-        b. Explain the meaning of declarative programming. Give an example.
-        c. Name the benefits of including functional style programming in Java
+a. Name the differences between imperative and functional programming
+b. Explain the meaning of declarative programming. Give an example.
+c. Name the benefits of including functional style programming in Java
     
 
 2)  Use Lambdas and Streams to do the following.  Hard code all the data that you need and Test it Thoroughly!    
